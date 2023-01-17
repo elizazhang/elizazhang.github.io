@@ -1,7 +1,9 @@
 ---
 layout: default
-pagination:
-  enabled: true
+paginate: true
+
+<!-- pagination:
+  enabled: true -->
 ---
 <div class="home">
 
@@ -17,7 +19,7 @@ pagination:
 
 <div class="wrapper">
 <ul class="post-list">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
   <li>
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
