@@ -1,4 +1,21 @@
-Why do we choose Kafka over sqs queue 
+
+
+---
+
+layout: post
+
+title:  "Kafka VS SQS"
+
+date:   2023-02-02
+
+author: Eliza Zhang
+
+categories: culture
+
+tags: [kafka]
+
+---
+Why do we choose Kafka over sqs queue? 
 
 Kafka and SQS (Simple Queue Service) are both messaging systems, but they have different design goals and are suited for different use cases. Some of the factors that might influence the choice between the two include:
 
