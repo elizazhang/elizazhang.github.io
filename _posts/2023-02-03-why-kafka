@@ -1,0 +1,6 @@
+
+Why do we use Kafka
+
+Kafka is used as a distributed messaging system that can handle high volume, high throughput, and high velocity data streams. 
+It is designed to provide a durable, scalable, and fast messaging platform for real-time data streaming and processing applications. 
+Some of the key use cases for Kafka include event sourcing, log aggregation, data pipelines, real-time data processing and analytics, and more.
