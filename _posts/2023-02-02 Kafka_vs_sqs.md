@@ -10,7 +10,7 @@ date:   2023-02-02
 
 author: Eliza Zhang
 
-categories: culture
+categories: kafka
 
 tags: [kafka]
 
